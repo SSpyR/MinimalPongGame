@@ -1,3 +1,5 @@
 # MinimalPongGame
 
-[Lab2](https://github.com/SSpyR/MinimalPongGame/blob/main/lab2screenshot.png)
+![lab2](lab2screenshot.png)
+
+![lab3](lab3.gif)
